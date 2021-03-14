@@ -1,4 +1,4 @@
-FROM bitwalker/alpine-elixir:1.11.3
+FROM gordonelielclassly/alpine-elixir:1.11.3
 
 MAINTAINER Paul Schoenfelder <paulschoenfelder@gmail.com>
 
